@@ -2,6 +2,8 @@
 
 An AI-powered system that calls restaurants to get food donations for homeless people.
 
+🎥 [Watch Demo Video](https://www.youtube.com/watch?v=1cbvbBzzvyI)
+
 ## The Problem
 
 Restaurants throw away tons of good food every day. At the same time, homeless people don't have enough to eat. There's no easy way to connect the two.
